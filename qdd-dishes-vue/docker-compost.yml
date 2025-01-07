@@ -1,0 +1,7 @@
+services:
+  vue-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "91:91"  # 映射容器的 80 端口到主机的 90 端口
