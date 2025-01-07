@@ -1,12 +1,22 @@
+项目源自想记录下做过的一些食物，使用了 **Vue 3.0** 作为前端框架，后端使用 **Spring Boot** 进行快速开发。功能包括：
 
-记录之前做过的一些东西
-使用vue 3.0 , 后端使用 springboot快速开发
-  功能包含新增食物,下单商品,听天由命(今天吃什么)等功能
-![image](https://github.com/user-attachments/assets/247039ea-f2bb-4f40-9f5c-dc263bd22c64)
- ![Uploading image.png…]()
+- 新增食物
+- 下单商品
+- 听天由命（今天吃什么）等模块
 
-  ![image](https://github.com/user-attachments/assets/09512ef0-f33d-40fb-b245-74de61ec605e)
-  ![image](https://github.com/user-attachments/assets/3b1c4761-8f28-4f42-993c-ff7c29a225a0)
-  ![Uploading image.png…]()
+## 项目截图
 
+### 界面 1
+![界面 1](https://github.com/user-attachments/assets/247039ea-f2bb-4f40-9f5c-dc263bd22c64)
 
+### 界面 2
+![界面 2](https://github.com/user-attachments/assets/6b79288d-9f93-4565-9a76-e55ae4240881)
+
+### 界面 3
+![界面 3](https://github.com/user-attachments/assets/09512ef0-f33d-40fb-b245-74de61ec605e)
+
+### 界面 4
+![界面 4](https://github.com/user-attachments/assets/3b1c4761-8f28-4f42-993c-ff7c29a225a0)
+
+### 界面 5
+![界面 5](https://github.com/user-attachments/assets/e09deccb-4793-445d-85a6-527f89edca49)
